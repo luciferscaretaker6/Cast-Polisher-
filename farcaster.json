@@ -1,0 +1,15 @@
+{
+  "accountAssociation": { "header": "PASTE", "payload": "PASTE", "signature": "PASTE" },
+  "miniapp": {
+    "version": "1",
+    "name": "Cast Polisher",
+    "iconUrl": "https://YOUR_DOMAIN/icon.png",
+    "homeUrl": "https://YOUR_DOMAIN",
+    "splashImageUrl": "https://YOUR_DOMAIN/splash.png",
+    "splashBackgroundColor": "#0f0b1a",
+    "subtitle": "3 sharper versions of your cast",
+    "description": "Paste a draft, pay 0.10 USDC, get three punchier rewrites.",
+    "primaryCategory": "utility",
+    "tags": ["writing", "casting", "ai"]
+  }
+}
